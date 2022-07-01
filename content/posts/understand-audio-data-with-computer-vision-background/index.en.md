@@ -1,8 +1,8 @@
 ---
 weight: 1
 title: "Understand Audio Data with Computer Vision Background"
-date: 2021-02-14
-lastmod: 2021-07-01
+date: 2022-02-14
+lastmod: 2022-07-01
 draft: false
 author: "Chiawei Lim"
 authorLink: "https://www.linkedin.com/in/codenamewei/"
@@ -132,7 +132,7 @@ On rare occasions, some might have the intention to include video in a markdown 
 
 An effective way of doing this is to have a good image representation while embedding the video URL.
 
-#### Option 1:
+**Option 1**
 
 ```
 <div align="center">
@@ -140,7 +140,7 @@ An effective way of doing this is to have a good image representation while embe
 </div>
 ```
 
-#### Option 2:
+**Option 2**
 
 `[![Watch the video](image_url)](video_url)`
 
