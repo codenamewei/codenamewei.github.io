@@ -11,7 +11,7 @@
   # 哪种哈希函数用来 SRI, 为空时表示不使用 SRI
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = ""
-  dateFormat = "2022-07-01"
+  dateFormat = ""
   title = "Codenamewei Tech Blog"
   description = "Codenamewei Tech Blog"
 
@@ -74,7 +74,6 @@
     # section 页面每页显示文章数量
     paginate = 20
     # date format (month and day)
-    # 日期格式 (月和日)
     dateFormat = "01-02"
     # amount of RSS pages
     # RSS 文章数目
@@ -162,7 +161,7 @@
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = ""
-      subtitle = "Tech Blogs about ML, DL, NLP"
+      subtitle = "Tech Blogs about Data Science, NLP and system"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
