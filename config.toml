@@ -17,10 +17,8 @@
 
   [params.header]
     # desktop header mode ["fixed", "normal", "auto"]
-    # 桌面端导航栏模式 ["fixed", "normal", "auto"]
     desktopMode = "fixed"
     # mobile header mode ["fixed", "normal", "auto"]
-    # 移动端导航栏模式 ["fixed", "normal", "auto"]
     mobileMode = "auto"
     # Header title config
     # 页面头部导航栏标题配置
@@ -29,7 +27,6 @@
       # LOGO 的 URL
       logo = ""
       # title name
-      # 标题名称
       name = "Codenamewei Tech Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
@@ -307,7 +304,7 @@
     # Comment config
     # 评论系统设置
     [params.page.comment]
-      enable = false
+      enable = true
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
@@ -656,14 +653,6 @@
         name = "About"
         url = "/about/"
         title = ""
-      [[languages.en.menu.main]]
-        weight = 6
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/codenamewei/"
-        title = "GitHub"
     [languages.en.params]
       [languages.en.params.search]
         enable = true
