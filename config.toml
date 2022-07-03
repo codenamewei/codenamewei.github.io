@@ -158,7 +158,7 @@
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = ""
-      subtitle = "Tech Blogs about Data Science, NLP and system"
+      subtitle = "Tech Blogs about Data Science, NLP and System"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
