@@ -25,7 +25,11 @@ toc:
 
 Quick Demo of speech-to-text model trained with wav2vec2-conformer
 
-Try the [model](https://huggingface.co/spaces/codenamewei/speech-to-text) with examples listed, or upload flac format audio sampling at 16kHz.
+Try the [model](https://huggingface.co/spaces/codenamewei/speech-to-text) with
+
+- Examples provided
+- Upload audio files with extension .wav/.mp3/.flac
+- Recordings through microphone
 
 {{< image src="space.jpg" caption="Photo by the author" >}}
 
