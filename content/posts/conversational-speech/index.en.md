@@ -3,7 +3,7 @@ weight: 1
 title: "Speech-to-Text Demo Trained on Conversational Speech"
 date: 2022-07-03
 lastmod: 2022-07-03
-draft: false
+draft: true
 author: "Chiawei Lim"
 authorLink: "https://www.linkedin.com/in/codenamewei/"
 description: "Speech-to-Text Demo Trained on Conversational Speech"
