@@ -2,8 +2,8 @@
 weight: 1
 title: "The Epiphany: Moving from A Startup to A 100 Years Old Corporate"
 date: 2022-08-07
-lastmod: 2022-08-13
-draft: true
+lastmod: 2022-08-14
+draft: false
 author: "Chiawei Lim"
 authorLink: "https://www.linkedin.com/in/codenamewei/"
 description: "The Epiphany: Moving from Startup to 100 Years Old Corporate"
