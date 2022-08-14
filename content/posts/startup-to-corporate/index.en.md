@@ -12,7 +12,7 @@ resources:
   - name: "featured-image"
     src: "featured-image.jpg"
 
-tags: ["technology", "startup", "corporate"]
+tags: ["technology", "startup", "corporate", "careers"]
 categories: ["career"]
 
 lightgallery: true
@@ -62,6 +62,7 @@ With the capital to expand and scale, departments and diversifying roles have be
 With all the roller coaster rides that happen in a startup, burn-out happens and one would start to crave the stability which others have.
 
 {{< admonition >}} Burnout is a form of exhaustion caused by constantly feeling swamped. {{< /admonition >}}
+{{< image src="burnout.jpg" caption="Photo by [Elisa Ventur](https://unsplash.com/s/photos/elisa-ventur) on [Unsplash](https://unsplash.com/)" width="500">}}
 
 In the desire for a more manageable workload, at one point one will decides to switch to the corporate.
 
