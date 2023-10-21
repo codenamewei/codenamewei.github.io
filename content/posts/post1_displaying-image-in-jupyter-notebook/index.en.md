@@ -21,13 +21,10 @@ toc:
   auto: false
 ---
 
-### Presenting image in Jupyter Notebook cells using Python and Markdown
 
 There are times when data science practitioners and their target audiences need to check images while working on code in Jupyter files. This article lays out various ways to present images in Jupyter Notebooks cells, as well as the tradeoffs between each method.
 
-###  Content
-- Displaying Image using Markdown Syntax  
-- Displaying Image using Python Syntax
+
 
 ### Displaying Image using Markdown Syntax
 
@@ -185,7 +182,7 @@ Pros:
 Cons: 
 - Small adoption curves for first-time users.
 
-#### For more sophisticated tasks such as drawing rectangle on image.
+**For more sophisticated tasks such as drawing rectangle on image**
 
 Check out the code below:
 
